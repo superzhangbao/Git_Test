@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"dev_zb:3");
         Log.i(TAG,"版本一上线");
         Log.i(TAG,"1.1");
+        Log.i(TAG,"1.2");
     }
 }
