@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"dev:1");
         Log.i(TAG,"dev_zb:1");
         Log.i(TAG,"dev_zb:2");
+        Log.i(TAG,"dev_zb:3");
     }
 }
