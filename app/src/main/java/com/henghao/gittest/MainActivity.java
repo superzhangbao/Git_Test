@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"版本一上线");
         Log.i(TAG,"1.1");
         Log.i(TAG,"1.2");
+        Log.i(TAG,"版本2上线");
     }
 }
