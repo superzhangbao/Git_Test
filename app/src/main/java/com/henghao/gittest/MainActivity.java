@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i(TAG,"dev:1");
         Log.i(TAG,"dev_zb:1");
+        Log.i(TAG,"dev_zb:2");
     }
 }
