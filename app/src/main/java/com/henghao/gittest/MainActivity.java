@@ -26,5 +26,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"3.1");
         Log.i(TAG,"3.2");
         Log.i(TAG,"3.3");
+        Log.i(TAG,"3.4");
     }
 }
